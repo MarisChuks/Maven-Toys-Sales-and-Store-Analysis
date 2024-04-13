@@ -14,4 +14,5 @@ The Maven Toys dataset was sourced from Maven Analytics and encompasses sales an
 
 ## Tools Used
 Power BI: Utilized for data visualization and dashboard creation.
+
 Maven Analytics: Provided the Maven Toys dataset for analysis.
